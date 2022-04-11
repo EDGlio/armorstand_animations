@@ -1,0 +1,23 @@
+Pose.LeftLeg set value [30f, 0f, 0f]
+Pose.RightLeg set value [-40f, 0f, 0f]
+
+Pose.LeftLeg set value [20f, 0f, -2f]
+Pose.RightLeg set value [-7f, 0f, 0f]
+
+Pose.LeftLeg set value [0f, 0f, -5]
+Pose.RightLeg set value [0f, 0f, 0f]
+
+Pose.LeftLeg set value [-7f, 0f, 0f]
+Pose.RightLeg set value [20f, 0f, 2f]
+
+Pose.LeftLeg set value [-40f, 0f, 0f]
+Pose.RightLeg set value [30f, 0f, 0f]
+
+Pose.LeftLeg set value [-7f, 0f, 0f]
+Pose.RightLeg set value [20f, 0f, 2f]
+
+Pose.LeftLeg set value [0f, 0f, 0f]
+Pose.RightLeg set value [0f, 0f, 5f]
+
+Pose.LeftLeg set value [20f, 0f, -2f]
+Pose.RightLeg set value [-7f, 0f, 0f]
